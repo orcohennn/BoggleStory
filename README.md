@@ -1,8 +1,8 @@
 # Boogle Story
 Boogle Story is a word game inspired by Maple Story, designed in Python using various libraries. In this game, players have to find as many words as they can by connecting adjacent letters on a 5x5 grid of randomly generated letters.
-
+<img src="Readmepics/mainscreen.png" alt="Description of Image" width="600" height="300">
 # Boogle Story Gameplay
-
+<img src="Readmepics/ingame.png" alt="Description of Image" width="600" height="300">
 # Installation
 Clone this repository: git clone https://github.com/your-username/boogle-story.git
 Install the required libraries: pip install -r requirements.txt
@@ -39,5 +39,3 @@ grid = [[random.choice(letters) for j in range(grid_size)] for i in range(grid_s
 print(grid)
 Screenshots
 Include screenshots of your game in action!
-
-<img src="Readmepics/mainscreen.png" alt="Description of Image" width="600" height="300">
