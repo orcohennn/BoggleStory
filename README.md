@@ -7,7 +7,7 @@ At the end of the game, the person with the highest score will win!
 
 Length: 3 minutes
 
-* The game includes beautiful graphical user interface and sounds, have fun :smiley:
+The game includes beautiful graphical user interface and sounds, have fun :smiley:
 
 
 <img src="Readmepics/mainscreen.png" alt="Description of Image" width="600" height="300">
