@@ -1,5 +1,10 @@
 # Boogle Story
-Boogle Story is a word game inspired by Maple Story, designed in Python using various libraries. In this game, players have to find as many words as they can by connecting adjacent letters on a 5x5 grid of randomly generated letters.
+Boggle is a hilarious word-making game that requires exceptional vocabulary
+Players will have three minutes to create as many words as possible from a few
+jumbled-up letters.
+Try to create long words with more letters to score more points.
+At the end of the game, the person with the highest score will win!
+Length: 3 minutes
 <img src="Readmepics/mainscreen.png" alt="Description of Image" width="600" height="300">
 # Boogle Story Gameplay
 <img src="Readmepics/ingame.png" alt="Description of Image" width="600" height="600">
