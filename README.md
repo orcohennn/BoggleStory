@@ -27,11 +27,17 @@ python boggle.py
 
 # Libraries Used
 Pygame
+
 Tkinter
+
 Style_sheet
+
 Random
+
 Time
+
 Credits:
+
 This project was developed by Or Cohen & Geva haviv.
 
 # License
