@@ -5,6 +5,8 @@ jumbled-up letters.
 Try to create long words with more letters to score more points.
 At the end of the game, the person with the highest score will win!
 Length: 3 minutes
+
+
 <img src="Readmepics/mainscreen.png" alt="Description of Image" width="600" height="300">
 # Boogle Story Gameplay
 <img src="Readmepics/ingame.png" alt="Description of Image" width="600" height="600">
