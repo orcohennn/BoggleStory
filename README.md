@@ -3,7 +3,8 @@ Boggle is a hilarious word-making game that requires exceptional vocabulary
 Players will have three minutes to create as many words as possible from a few
 jumbled-up letters.
 Try to create long words with more letters to score more points.
-At the end of the game, the person with the highest score will win! '\n'
+At the end of the game, the person with the highest score will win!
+
 Length: 3 minutes
 
 
