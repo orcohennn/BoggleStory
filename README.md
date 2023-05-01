@@ -40,4 +40,4 @@ print(grid)
 Screenshots
 Include screenshots of your game in action!
 
-<img src="Readmepics/mainscreen.png" alt="Description of Image" width="500" height="300">
+<img src="Readmepics/mainscreen.png" alt="Description of Image" width="529" height="251">
