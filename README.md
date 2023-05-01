@@ -40,5 +40,6 @@ print(grid)
 Screenshots
 Include screenshots of your game in action!
 
-Screenshot 1
-Screenshot 2
+![Description of Image](Readmepics/ingame.png)
+
+![Description of Image](Readmepics/mainscreen.png)
