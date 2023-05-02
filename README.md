@@ -1,4 +1,4 @@
-# Boogle Story
+# Boggle Story
 Boggle is a hilarious word-making game that requires exceptional vocabulary
 Players will have three minutes to create as many words as possible from a few
 jumbled-up letters.
